@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Assets/race master rampage code/Assets/car/all car.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

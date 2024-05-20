@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{411BBF53-6C25-240C-5CB3-2DA1F4DD4B72}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/PathCreator/Examples/Scripts/PathFollower.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NoFlyManager.cs" />
+      <File FileName="Assets/Scripts/Finish.cs" />
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/PathCreator/Core/Runtime/Objects/BezierPath.cs" />
+      <File FileName="Assets/playnoob-prototype-plugin/Scripts/GameOverPanelControl.cs" />
+      <File FileName="Assets/playnoob-prototype-plugin/Scripts/GameCanvasControl.cs" />
+      <File FileName="Assets/Scripts/AI.cs" />
+      <File FileName="Assets/Scripts/Bumper.cs" Line="203" Column="27" />
+      <File FileName="Assets/Scripts/PlayerBumper.cs" />
+      <File FileName="Assets/Scripts/CameraManagement.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/ObstacleControl.cs" />
+      <File FileName="Assets/Scripts/DistanceCounter.cs" />
+      <File FileName="Assets/Scripts/RaceManager.cs" />
+      <File FileName="Assets/UiManager.cs" />
+      <File FileName="Assets/playnoob-prototype-plugin/Scripts/GameplayPanelControl.cs" />
+      <File FileName="Assets/playnoob-prototype-plugin/Scripts/PlaynoobAnalyticsManager.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/AIPathFollower.cs" Line="383" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppsFlyer PreferredExecutionTarget="f24b5933-7c48-4a3e-8cc6-c061d2069389" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="721aaa9f-d653-4ae6-aaec-bb28103e6542" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

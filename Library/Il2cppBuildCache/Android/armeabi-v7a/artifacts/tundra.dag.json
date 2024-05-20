@@ -1,0 +1,154 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"C:\\Program Files\\Unity 2020.3.40f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"C:\\Users\\ASUS TUF F15\\Desktop\\Turbo Race\\turbo_race_unity_2020.3.30\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\Native\\armeabi-v7a\\libil2cpp.so\" --cachedirectory=\"C:\\Users\\ASUS TUF F15\\Desktop\\Turbo Race\\turbo_race_unity_2020.3.30\\Assets\\..\\Library\\il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"C:/Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"C:/Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"C:/Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"C:/Users/ASUS TUF F15/Downloads/android-ndk-r19\" --additional-cpp=\"C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/AppsFlyerAttribution.h\" --additional-cpp=\"C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/AppsFlyeriOSWrapper.h\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"C:/Program Files/Unity 2020.3.40f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\" --stats-output-dir=\"C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppStats\"",
+      "Inputs": [
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/AppsFlyer.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Boxophobic.Utils.Scripts.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Cinemachine.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/DOTween.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Facebook.Unity.Android.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Facebook.Unity.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Facebook.Unity.Settings.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/GoogleMobileAds.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Lofelt.NiceVibrations.Demo.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Lofelt.NiceVibrations.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/PathCreator.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/ToonyColorsPro.Runtime.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/ToonyColorsPro2.Demo.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/Unity.Timeline.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ClothModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/AppsFlyerAttribution.h",
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Library/Il2cppBuildCache/Android/armeabi-v7a/additionalCppFiles/AppsFlyeriOSWrapper.h",
+        "C:/Program Files/Unity 2020.3.40f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "C:/Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a/baselib.a",
+        "C:/Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a/libunityruntime.a",
+        "\"C:/Program Files/Unity 2020.3.40f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "C:/Users/ASUS TUF F15/Desktop/Turbo Race/turbo_race_unity_2020.3.30/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../../../../Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include"
+    },
+    {
+      "File": "../../../../../../../../../Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include"
+    },
+    {
+      "File": "../../../../../../../../../Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "Path": "../../../../../../../../../Program Files/Unity 2020.3.40f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
